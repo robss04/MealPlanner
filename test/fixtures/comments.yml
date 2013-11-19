@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  body: MyText
+  posted_at: 2013-11-19 10:52:35
+  rating: 1
+  post_item_id: 
+
+two:
+  body: MyText
+  posted_at: 2013-11-19 10:52:35
+  rating: 1
+  post_item_id: 
